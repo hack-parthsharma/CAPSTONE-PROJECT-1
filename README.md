@@ -3,7 +3,7 @@
 <h2>Team Members</h2>
 Parth Sharma - UX<br>
 Krish Patel - UI<br>
-Faizal Kadiwal - AS ALWAYS FULL-STACK<br>
+Faizal Kadiwal - FULL-STACK<br>
 
 <h2>Usecase Diagram : </h2>
 ![image](https://user-images.githubusercontent.com/69467378/194776526-8856f448-84ef-4752-9966-b5d31c55ea65.png)
@@ -17,3 +17,4 @@ Faizal Kadiwal - AS ALWAYS FULL-STACK<br>
 
 <h2>Class Diagram : </h2>
 ![class1](https://user-images.githubusercontent.com/69467378/198822305-ef4cd06b-2f3f-45f8-a402-6cbdc35c773e.jpg)
+
